@@ -61,7 +61,7 @@
 - Payment Status
 ## 🖼️ Dashboard Preview
 
-![PhonePe Transaction Analysis Dashboard](PhonePeDashboard.png)
+![PhonePe Transaction Analysis Dashboard](PhonePe%20Dashboard.png)
 
 
 ## 🛠️ Tools & Technologies
